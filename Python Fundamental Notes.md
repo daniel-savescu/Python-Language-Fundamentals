@@ -1,5 +1,5 @@
 <h1><b>Python Language Fundamentals</b></h1>
-<hr/>
+
 <p>Python is a general purpose programming language.</p>
 <p>Python was created by Guido vam Rossum in 1989 while working at National Research Institute in Neatherlands.</p>
 <p>Official release date: 20th February 1991.</p>
@@ -39,7 +39,9 @@ Example of <b>Sum of A + B</b>
 <p>Python syntax is derived from: </p>
 <p><b>C Programming Language</b></p>
 <p><b>ABC Programming Language</b></p>
+
 <br/>
+
 <p>Python is used for developing: </p>
 <ul>
   <li>Desktop Applications</li>
