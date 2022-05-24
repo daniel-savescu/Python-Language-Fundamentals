@@ -52,3 +52,18 @@ Example of <b>Sum of A + B</b>
   <li>Artificial Intelligence Applications</li>
   <li>Internet Of Things (IoT) Applications</li>
 </ul>
+
+<p>Features of Python</p>
+
+<ul>
+  <li>Simple and easy to learn</li>
+  <li>Freeware and Open Source</li>
+  <li>High Level Programming Language</li>
+  <li>Platform independent</li>
+  <li>Portability</li>
+  <li>Dynamically Type Programming Language</li>
+  <li>Procedural / Object Oriented Programming Language</li>
+  <li>Interpreted Programming Languange</li>
+  <li>Extensible</li>
+  <li>Extensive libraries</li>
+</ul>
