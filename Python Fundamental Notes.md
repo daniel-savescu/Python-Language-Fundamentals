@@ -69,6 +69,7 @@ Example of <b>Sum of A + B</b>
 </ul>
 
 <p>Python Limitations</p>
-
-<p>Because it is a interpreted programming language run time speed has a low performance.</p>
-<p>Python does not supprort Mobile Development.</p>
+<ul>
+  <li>Because it is a interpreted programming language run time speed has a low performance.</li>
+  <li>Python does not supprort Mobile Development.</li>
+</ul>
