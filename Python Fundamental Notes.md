@@ -26,3 +26,12 @@ Example of <b>Sum of A + B</b>
     print("Sum:",(a+b))
   </code>
 </pre>
+<br/>
+
+<p>Python can be used as: </p>
+<ul>
+  <li>Object Oriented Programming</li>
+  <li>Functional Programming</li>
+  <li>Modular Programming</li>
+  <li>Scripting Language</li>
+</ul>
