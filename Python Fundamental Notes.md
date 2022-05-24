@@ -40,8 +40,6 @@ Example of <b>Sum of A + B</b>
 <p><b>C Programming Language</b></p>
 <p><b>ABC Programming Language</b></p>
 
-<br/>
-
 <p>Python is used for developing: </p>
 <ul>
   <li>Desktop Applications</li>
