@@ -67,3 +67,8 @@ Example of <b>Sum of A + B</b>
   <li>Extensible</li>
   <li>Extensive libraries</li>
 </ul>
+
+<p>Python Limitations</p>
+
+<p>Because it is a interpreted programming language run time speed has a low performance.</p>
+<p>Python does not supprort Mobile Development.</p>
