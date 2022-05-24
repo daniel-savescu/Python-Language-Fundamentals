@@ -9,6 +9,8 @@ Example of <b>"Hello World"</b>
 
 <pre>
   <code>
+    #!/usr/bin/env python3
+    
     print("Hello World")
   </code>
 </pre>
@@ -17,6 +19,8 @@ Example of <b>Sum of A + B</b>
 
 <pre>
   <code>
+    #!/usr/bin/env python3
+    
     a = 10;
     b = 20;
     print("Sum:",(a+b))
