@@ -5,13 +5,15 @@
 <p>Official release date: 20th February 1991.</p>
 <p>Python is recomended as the first programming language you should learn.</p>
 
-Example of "Hello World"
+Example of <b>"Hello World"</b>
 
-<code>
-  print("Hello World")
-</code>
+<pre>
+  <code>
+    print("Hello World")
+  </code>
+</pre>
 
-Example of Sum of A + B
+Example of <b>Sum of A + B</b>
 
 <pre>
   <code>
