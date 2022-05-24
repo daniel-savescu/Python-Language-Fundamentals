@@ -37,6 +37,5 @@ Example of <b>Sum of A + B</b>
 </ul>
 
 <p>Python syntax is derived from: </p>
-<br/>
 <p><b>C Programming Language</b></p>
 <p><b>ABC Programming Language</b></p>
