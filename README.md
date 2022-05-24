@@ -13,8 +13,10 @@ Example of "Hello World"
 
 Example of Sum of A + B
 
-<code>
-  a = 10;
-  b = 20;
-  print("Sum:",(a+b))
-</code>
+<pre>
+  <code>
+    a = 10;
+    b = 20;
+    print("Sum:",(a+b))
+  </code>
+</pre>
