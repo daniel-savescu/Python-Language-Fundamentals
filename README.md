@@ -10,3 +10,11 @@ Example of "Hello World"
 <code>
   print("Hello World")
 </code>
+
+Example of Sum of A + B
+
+<code>
+  a = 10;
+  b = 20;
+  print("Sum:",(a+b))
+</code>
