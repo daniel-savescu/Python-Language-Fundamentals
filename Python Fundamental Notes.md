@@ -5,7 +5,7 @@
 <p>Official release date: 20th February 1991.</p>
 <p>Python is recomended as the first programming language you should learn.</p>
 
-Example of <b>"Hello World"</b>
+<p>Example of <b>"Hello World"</b>
 
 <pre>
   <code>
@@ -35,3 +35,8 @@ Example of <b>Sum of A + B</b>
   <li>Modular Programming</li>
   <li>Scripting Language</li>
 </ul>
+
+<p>Python syntax is derived from: </p>
+<br/>
+<p><b>C Programming Language</b></p>
+<p><b>ABC Programming Language</b></p>
