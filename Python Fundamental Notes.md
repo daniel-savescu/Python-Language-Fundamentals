@@ -78,3 +78,10 @@ Example of <b>Sum of A + B</b>
 
 <p>A name in Python is called a <b>identifier.</b></p>
 <p>It can be a class name, function name, module name or variable name.</p>
+
+<p>Example of identifier</p>
+<pre>
+  <code>
+    a = 10
+  </code>
+</pre>
