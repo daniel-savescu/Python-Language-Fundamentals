@@ -73,3 +73,8 @@ Example of <b>Sum of A + B</b>
   <li>Because it is a interpreted programming language run time speed has a low performance.</li>
   <li>Python does not supprort Mobile Development.</li>
 </ul>
+
+<h2>Python Identifiers</h2>
+
+<p>A name in Python is called a <b>identifier.</b></p>
+<p>It can be a class name, function name, module name or variable name.</p>
